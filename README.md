@@ -1,4 +1,4 @@
-# Busca de Estabelecimentos e Serviços Especializados para Vítimas de Violência Sexual
+# Análise geoespacial e buscador interativo de serviços de atendimento a vítimas de violência sexual no Brasil
 
 Este projeto utiliza Ciência de Dados para mapear e analisar a rede de atendimento a vítimas de violência sexual no Brasil, cruzando a oferta de serviços com indicadores reais de criminalidade.
 
