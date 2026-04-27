@@ -64,7 +64,7 @@ O projeto foi desenvolvido em **Python**, utilizando as seguintes bibliotecas:
 ## 👨‍💻 Autor
 
 **Otávio Fabbro**
-*Bacharel em Ciências Sociais (FFLCH-USP) & Especialista em Ciência de Dados (ICMC-USP)*
+• *Bacharel em Ciências Sociais (FFLCH-USP) & Especialista em Ciência de Dados (ICMC-USP)*
 
 Interessado na aplicação de dados para impacto social e políticas públicas. Sinta-se à vontade para entrar em contato para trocas de conhecimento ou oportunidades profissionais!
 
